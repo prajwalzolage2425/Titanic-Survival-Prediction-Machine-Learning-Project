@@ -59,6 +59,3 @@ This project demonstrates a **complete real-world ML workflow**, from raw data p
 - ✔ Kaggle-ready submission file generation
 
 ---
-
-## 📁 Project Structure
-
