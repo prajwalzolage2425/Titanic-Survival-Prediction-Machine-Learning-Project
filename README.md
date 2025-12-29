@@ -70,3 +70,19 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ```bash
 git clone https://github.com/prajwalzolage2425/Titanic-Survival-Prediction.git
 cd Titanic-Survival-Prediction
+
+
+
+## 💻 Usage
+
+### Run the notebook or script
+
+- Open the notebook in **Jupyter Notebook**, **OR**
+- Run the project in the **Kaggle Notebook environment**
+
+### Generate submission file
+
+After execution, the model generates:
+
+```text
+submission.csv
