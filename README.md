@@ -62,3 +62,11 @@ feature engineering, model training, evaluation, and Kaggle submission generatio
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
+
+## 💻 Usage
+
+### Clone repository
+
+```bash
+git clone https://github.com/prajwalzolage2425/Titanic-Survival-Prediction.git
+cd Titanic-Survival-Prediction
